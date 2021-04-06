@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preeti-create" alt="preeti-create" /></a> </p>
 
-- 🔭 I’m currently working on **TAship at CodingNinjas**
+- 🔭 I’m currently working as **TAship at CodingNinjas**
 
 - 📫 How to reach me **preetibarnwal31@gmail.com**
 
